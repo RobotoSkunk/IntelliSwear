@@ -1,0 +1,12 @@
+{
+	"name": "intelliswear",
+	"version": "0.1.0-dev",
+	"description": "Intelligent profanity filter and detection library for Node.js",
+	"main": "dist/index.js",
+	"types": "src/index.ts",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "RobotoSkunk",
+	"license": "MIT"
+}
